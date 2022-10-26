@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listaventas SYSTEM "C:\Users\Usuario\IdeaProjects\TallerCES3\src\ejercicio1.dtd">
+<listaventas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:noNamespaceSchemaLocation="ejercicio1.xsd">
+    <venta>
+        <importe>2500</importe>
+        <comprador>Sara Zapata</comprador>
+        <vendedor>Hernan Velez</vendedor>
+        <codigofactura>S21</codigofactura>
+    </venta>
+    <venta>
+        <importe>5200</importe>
+        <comprador>Laura Zapata</comprador>
+        <vendedor>Dario Gomez</vendedor>
+        <fecha>15-02-2019</fecha>
+        <codigofactura>S22</codigofactura>
+    </venta>
+</listaventas>

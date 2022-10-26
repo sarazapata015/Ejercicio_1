@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listaventas SYSTEM "C:\Users\Usuario\IdeaProjects\TallerCES3\src\ejercicio1.xml">
+<!DOCTYPE listaventas[
+        <!ELEMENT listaventas (venta+)>
+        <!ELEMENT venta (importe, comprador, vendedor, fecha?, codigofactura)>
+        <!ELEMENT importe (#PCDATA)>
+        <!ELEMENT comprador (#PCDATA)>
+        <!ELEMENT vendedor (#PCDATA)>
+        <!ELEMENT fecha (#PCDATA)>
+        <!ELEMENT codigofactura (#PCDATA)>
+
+        ]>
